@@ -6,6 +6,7 @@
 
 ### Introduction
 - Hackathon retro (BlockIQ)
+-Minify geojson! Reduce irrelevant spaces!
 - turf.js
   - Spatial joins
   - Measurement extraction
